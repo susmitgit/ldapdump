@@ -1,0 +1,2 @@
+# ldapdump
+A LDAP DUMP
